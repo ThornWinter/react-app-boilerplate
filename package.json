@@ -1,8 +1,8 @@
 {
-  "name": "react-app-boilerplate",
-  "version": "0.1.4",
-  "description": "React application boilerplate",
-  "author": "Cássio Zen",
+  "name": "thorn-winter-resume",
+  "version": "2.0.0",
+  "description": "Thorn Winter resume page built with react",
+  "author": "Thorn Winter",
   "license": "ISC",
   "scripts": {
     "start": "webpack-dev-server --progress",
